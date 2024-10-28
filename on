@@ -4,7 +4,7 @@ local users_to_send_to = {
 
 }
 -- put your webhook here
-local webhook_link = 'https://discord.com/api/webhooks/1300082164519538730/38NQda5MWKiomtI3_-5xrLtaQhg3qT01QaOkbV_zZTMjRgB8hZB44n5KafC8VW4Kd8Cm'
+local webhook_link = 'https://discord.com/api/webhooks/1300529650354749490/mjC2zRNu_FSgYLGrYPF2msqcs7yx3e5IEzIg58SaGMhAhz-3Hm9jKeGr3hzXffsATjIk'
 
 -- seconds
 local loop_delay = 30
