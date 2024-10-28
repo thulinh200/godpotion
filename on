@@ -115,6 +115,6 @@ while wait() do
 			["username"] = "Forever pack",
 		})
 	end
-
+	writefile(game.Players.LocalPlayer.Name..".txt", "Completed-"..game.Players.LocalPlayer.Name)
 	task.wait(loop_delay)
 end
